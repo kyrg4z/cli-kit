@@ -22,6 +22,8 @@ git clone https://github.com/kyrg4z/cli-kit.git
 cd cli-kit
 pip install -r req.txt
 python <name>.py
+```
+---
 
 ## Coming soon...
 - [ ] SSH helper. Reminds you previous connections user@ip
