@@ -8,7 +8,6 @@
 - 📊 **System Monitor** — View CPU and memory usage in real time.
 - 📑 **Jason** — View JSON data in a human-readable format.
 - **SHH** — Reminds you previous connections user@ip
-![](https://img.icons8.com/?size=70&id=79756&format=png&color=000000)
 ---
 
 ## 📦 Installation
