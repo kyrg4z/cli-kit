@@ -27,7 +27,6 @@ python <name>.py
 ---
 
 ## Coming soon...
-- [ ] 
 - [ ] Habit tracker. 
 - [ ] Markdown editor. 
 - [ ] Disk usage 
