@@ -7,7 +7,8 @@
 - 📝 **To-Do List CLI** — Simple task manager with tagging and priorities. Stores data in SQLite.
 - 📊 **System Monitor** — View CPU and memory usage in real time.
 - 📑 **Jason** — View JSON data in a human-readable format.
-
+- **SHH** — Reminds you previous connections user@ip
+![](https://img.icons8.com/?size=70&id=79756&format=png&color=000000)
 ---
 
 ## 📦 Installation
@@ -26,7 +27,7 @@ python <name>.py
 ---
 
 ## Coming soon...
-- [ ] SSH helper. Reminds you previous connections user@ip
+- [ ] 
 - [ ] Habit tracker. 
 - [ ] Markdown editor. 
 - [ ] Disk usage 
